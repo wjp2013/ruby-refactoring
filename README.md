@@ -92,3 +92,7 @@ possible refactoring patterns to solve it.
 * Replace Type Code with Module Extension
 * Replace Type Code with Polymorphism
 * Replace Type Code with State/Strategy
+
+## 中文参考
+
+* [重构—改善既有代码的设计](http://www.cnblogs.com/matchcolor/archive/2010/08/02/1784888.html)
